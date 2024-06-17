@@ -30,7 +30,7 @@ const options = {
     },
     servers: [
       {
-        url: "https://goit-team-03-node.onrender.com/",
+        url: "https://pet-back-unuw.onrender.com",
       },
     ],
   },
